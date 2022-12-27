@@ -1,8 +1,7 @@
-Hello👋 
+### Hello👋  I am a college student majoring in computer engineering. My goal is to be a **back-end** developer.✨
+### Thank you. 😄
+
 <br/>
-I am a college student majoring in computer engineering. My goal is to be a **back-end** developer.✨
-<br/>
-Thank you. 😄
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
