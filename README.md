@@ -1,4 +1,4 @@
-### Hello👋  I am a college student majoring in computer engineering. My goal is to be a **back-end** developer.✨ Thank you. 😄
+### Hello👋  I am a college student majoring in computer engineering. My goal is to be a **Android Developers**✨ Thank you. 😄
 
 <br/>
 
